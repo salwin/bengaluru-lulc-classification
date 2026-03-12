@@ -15,7 +15,7 @@ using Random Forest machine learning on Sentinel-2 satellite imagery
 processed via Google Earth Engine.
 
 ## 🗺️ Interactive Map
-👉 [Click here to view the interactive map](bengaluru_lulc_2024.html)
+👉 👉 [Click here to view the interactive map](https://Salwin.github.io/bengaluru-lulc-classification/bengaluru_lulc_2024.html)
 
 ## 🎯 Land Cover Classes
 | Class | Description |
