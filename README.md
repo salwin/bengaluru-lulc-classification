@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4)
 ![ML](https://img.shields.io/badge/Random%20Forest-ML-green)
+![Sentinel-2](https://img.shields.io/badge/Sentinel--2-ESA-orange)
+![Folium](https://img.shields.io/badge/Folium-WebMap-brightgreen)
 
 ---
 
