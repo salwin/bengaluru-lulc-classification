@@ -40,3 +40,6 @@ processed via Google Earth Engine.
 - Accuracy may be optimistic due to spatial autocorrelation in training samples
 - Agriculture and Vegetation merged due to spectral similarity in dry season
 - Fallow land dominant in peri-urban areas due to seasonal cultivation patterns
+  
+## Author
+Salwin M S | GIS Analyst | TUM graduate | Kerala, India
