@@ -33,9 +33,9 @@ processed via Google Earth Engine.
 - **Python** — GeoPandas, Pandas, Matplotlib
 
 ## 📊 Model Performance
-- Training samples: 800 pixels (200 per class)
+- Training samples: 1360 pixels (340 per class)
 - Spectral features: B2, B3, B4, B8, B11, B12, NDVI, NDBI, MNDWI
-- ![Confusion Matrix](confusion_matrix.png)
+
 
 ## ⚠️ Limitations
 - Accuracy may be optimistic due to spatial autocorrelation in training samples
