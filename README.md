@@ -14,8 +14,9 @@ Land Use Land Cover (LULC) classification of Bengaluru Urban District
 using Random Forest machine learning on Sentinel-2 satellite imagery 
 processed via Google Earth Engine.
 
-## 🗺️ Interactive Map
-👉 👉 [Click here to view the interactive map](https://Salwin.github.io/bengaluru-lulc-classification/bengaluru_lulc_2024.html)
+## 🗺️ Map
+![Bengaluru LULC 2024](Bengaluru_lulc_Map.png)
+
 
 ## 🎯 Land Cover Classes
 | Class | Description |
@@ -29,7 +30,6 @@ processed via Google Earth Engine.
 - **Google Earth Engine** — cloud satellite data processing
 - **Sentinel-2 L2A** — 10m resolution imagery (Jan–Mar 2024)
 - **Random Forest** — scikit-learn classifier
-- **Folium** — interactive web map
 - **Python** — GeoPandas, Pandas, Matplotlib
 
 ## 📊 Model Performance
